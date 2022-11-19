@@ -1,5 +1,5 @@
 # PHP-mySQL-
-Techonologies used :
+Technologies used :
 -PHP
 -mySQL
 -Bootstrap 5
